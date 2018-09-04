@@ -49,8 +49,10 @@ def diff_ngram(sa, sb, num):
 res,word=diff_ngram(a,b,2)
 print("2-gram : ", res,word,"\n")
 
+
 res,word=diff_ngram(a,b,3)
 print("3-gram : ", res,word,"\n")
+
 
 res,word=diff_ngram(a,b,4)
 print("4-gram : ", res,word,"\n")
