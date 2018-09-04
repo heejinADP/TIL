@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Python/ps10_test.py
+R/hiphop.R
+R/hiphop.R
